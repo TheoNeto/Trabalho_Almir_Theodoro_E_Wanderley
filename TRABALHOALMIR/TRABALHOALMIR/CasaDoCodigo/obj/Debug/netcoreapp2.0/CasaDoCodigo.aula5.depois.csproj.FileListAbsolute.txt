@@ -1,0 +1,17 @@
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.deps.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.dev.json
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csproj.AssemblyReference.cache
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfoInputs.cache
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfo.cs
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csproj.CoreCompileInputs.cache
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Users\bruna\Desktop\FACULDADE\Trabalho_Almir_Theodoro_E_Wanderley\TRABALHOALMIR\TRABALHOALMIR\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.genruntimeconfig.cache
