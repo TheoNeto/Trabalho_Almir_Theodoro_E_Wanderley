@@ -14168,9 +14168,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\CasaDoCodigo.aula5.depois.csproj",
-      "projectName": "CasaDoCodigo.aula5.depois",
-      "projectPath": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\CasaDoCodigo.aula5.depois.csproj",
+      "projectUniqueName": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectName": "CasaDoCodigo",
+      "projectPath": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "packagesPath": "C:\\Users\\bruna\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\obj\\",
       "projectStyle": "PackageReference",

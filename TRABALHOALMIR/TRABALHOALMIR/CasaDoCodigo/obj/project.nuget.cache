@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "piHezM0mZXbwYSjV4q4j3iub7r9bKQRlZlYUfDwMtHVpKGC4uZy+YP2d61j+DJrfj8HJ9Qw6QI+6MWOPj9yB9g==",
+  "dgSpecHash": "iit2S+4sx69APhCS1Vfb0tjjo25Agz4ptsdx81QXXUu2cD0HZwawwu8tg03KyyjkSC1Dpi0Hldm57w6HO1Zk1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\CasaDoCodigo.aula5.depois.csproj",
+  "projectFilePath": "C:\\Users\\bruna\\Desktop\\FACULDADE\\Trabalho_Almir_Theodoro_E_Wanderley\\TRABALHOALMIR\\TRABALHOALMIR\\CasaDoCodigo\\CasaDoCodigo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruna\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\bruna\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
